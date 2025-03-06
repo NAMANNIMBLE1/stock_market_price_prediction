@@ -5,6 +5,13 @@
 
 This project aims to predict stock market prices using a Long Short-Term Memory (LSTM) neural network. The dataset is fetched using Yahoo Finance, and data visualization is done using Seaborn and Matplotlib. The model is trained using TensorFlow/Keras.
 
+## Screenshots 
+![demo](https://github.com/NAMANNIMBLE1/stock_market_price_prediction/blob/main/images/Screenshot%202025-03-06%20184622.png)
+![demo](https://github.com/NAMANNIMBLE1/stock_market_price_prediction/blob/main/images/Screenshot%202025-03-06%20184629.png)
+![demo](https://github.com/NAMANNIMBLE1/stock_market_price_prediction/blob/main/images/Screenshot%202025-03-06%20184634.png)
+![demo](https://github.com/NAMANNIMBLE1/stock_market_price_prediction/blob/main/images/Screenshot%202025-03-06%20184642.png)
+![demo](https://github.com/NAMANNIMBLE1/stock_market_price_prediction/blob/main/images/Screenshot%202025-03-06%20184647.png)
+![demo](https://github.com/NAMANNIMBLE1/stock_market_price_prediction/blob/main/images/Screenshot%202025-03-06%20184654.png)
 
 ## Acknowledgements
 
